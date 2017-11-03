@@ -1,0 +1,16 @@
+/Library
+/Temp
+/Client.v12.suo
+/Client.CSharp.csproj
+/Client.CSharp.Editor.csproj
+/Client.sln
+/Client.CSharp.Plugins.csproj
+.vs/Client/v15/.suo
+Client.csproj
+Client.Editor.csproj
+Client.Plugins.csproj
+.vs/Client/v15/sqlite3/storage.ide
+*.csproj
+*.user
+Client.CSharp.csproj.user
+Client.userprefs
